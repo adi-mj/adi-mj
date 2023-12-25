@@ -8,7 +8,14 @@ An Electronics & Communication graduate with a passion for information security,
 # 💫 Some other stuff about me:
   - 🔭 I’m currently upskilling on ![hackthebox](https://img.shields.io/badge/hackthebox-black?style=flat-square&logo=hackthebox&logoColor=neongreen)
   - 🄯 Open source enthusiast. Thanks to all the open source contributors!
-  - I read/watch sci-fi 👽
+  - We can talk about endlessly on sci-fi 👽 (I know quite a bit about ⬇️)
+      - Aliens, Predator & AVP universe
+      - Star Wars
+      - HALO
+      - John Carter
+      - Watchdogs
+      - Rick and Morty
+      - Jurrasic Park
 <br>
 
 ## 🌐 Socials:
@@ -44,6 +51,7 @@ An Electronics & Communication graduate with a passion for information security,
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[![python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=yellow&link=https://www.python.org)](https://www.python.org)
 
 ## Misc. tools I use:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
