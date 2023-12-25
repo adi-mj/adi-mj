@@ -1,4 +1,4 @@
-# Hi, I'm Adityavarman Manjunath :wave:
+# Hi, I'm Adityavarman Manjunath 👋 :
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="https://raw.githubusercontent.com/cszach/cszach/master/img/Fire.gif" />
 
@@ -26,7 +26,7 @@ An Electronics & Communication graduate with a passion for information security,
 
 # 💻 Tech Stack:
 
-## Infosec. knowledge:
+## 🛡️ Infosec. knowledge:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 [![burpsuite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=portswigger&link=https://portswigger.net/burp)](https://portswigger.net/burp)
 [![hackthebox](https://img.shields.io/badge/hackthebox-black?style=for-the-badge&logo=hackthebox&logoColor=neongreen&link=https://app.hackthebox.com/)](https://app.hackthebox.com/)
@@ -34,7 +34,7 @@ An Electronics & Communication graduate with a passion for information security,
 [![tryhackme](https://img.shields.io/badge/tryhackme-black?style=for-the-badge&logo=tryhackme&logoColor=white&link=https://tryhackme.com)](https://tryhackme.com)
 [![wireshark](https://img.shields.io/badge/wireshark-white?style=for-the-badge&logo=wireshark&logoColor=blue&link=https://www.wireshark.org)](https://www.wireshark.org)
 
-## Environments I work with:
+## 🌏 Environments I work with:
 [![archlinux](https://img.shields.io/badge/archlinux-gray?style=for-the-badge&logo=archlinux&link=https://wiki.archlinux.org/title/User:Adi-mj)](https://wiki.archlinux.org/title/User:Adi-mj)
 [![debian](https://img.shields.io/badge/debian-white?style=for-the-badge&logo=debian&logoColor=red&link=https://www.debian.org)](https://www.debian.org)
 ![fedora](https://img.shields.io/badge/fedora-white?style=for-the-badge&logo=fedora)
@@ -45,7 +45,7 @@ An Electronics & Communication graduate with a passion for information security,
 [![circuitverse](https://img.shields.io/badge/circuitverse-green?style=for-the-badge&logo=circuitverse&logoColor=white&link=https://circuitverse.org/users/33793)](https://circuitverse.org/users/33793)
 [![ltspice](https://img.shields.io/badge/ltspice-grey?style=for-the-badge&logo=ltspice&logoColor=red&link=https://circuitverse.org/users/33793)](https://circuitverse.org/users/33793)
 
-## Coding languages I know:
+## 🔠 Coding languages I know:
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
@@ -53,7 +53,7 @@ An Electronics & Communication graduate with a passion for information security,
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 [![python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=yellow&link=https://www.python.org)](https://www.python.org)
 
-## Misc. tools I use:
+## 🧰 Misc. tools I use:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 [![gnutools](https://img.shields.io/badge/gnutools-white?style=for-the-badge&logo=gnu&logoColor=black&link=https://www.debian.org)](https://www.debian.org)
