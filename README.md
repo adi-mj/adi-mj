@@ -5,19 +5,6 @@
 # ❇️ One line that defines me best:
 An Electronics & Communication graduate with a passion for information security, merging wireless engineering expertise with recon, vulnerability analysis, Algorithm-driven penetration testing, and continuous learning to fortify digital landscapes against evolving threats.
 
-# 💫 Some other stuff about me:
-  - 🔭 I’m currently upskilling on ![hackthebox](https://img.shields.io/badge/hackthebox-black?style=flat-square&logo=hackthebox&logoColor=neongreen)
-  - 🄯 Open source enthusiast. Thanks to all the open source contributors!
-  - We can talk about endlessly on sci-fi 👽 (I know quite a bit about ⬇️)
-      - Aliens, Predator & AVP universe
-      - Star Wars
-      - HALO
-      - John Carter
-      - Watchdogs
-      - Rick and Morty
-      - Jurrasic Park
-<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityavarman-manjunath)
 <br/>
@@ -37,9 +24,9 @@ An Electronics & Communication graduate with a passion for information security,
 ## 🌏 Environments I work with:
 [![archlinux](https://img.shields.io/badge/archlinux-gray?style=for-the-badge&logo=archlinux&link=https://wiki.archlinux.org/title/User:Adi-mj)](https://wiki.archlinux.org/title/User:Adi-mj)
 [![debian](https://img.shields.io/badge/debian-white?style=for-the-badge&logo=debian&logoColor=red&link=https://www.debian.org)](https://www.debian.org)
-![fedora](https://img.shields.io/badge/fedora-white?style=for-the-badge&logo=fedora)
-![opensuse](https://img.shields.io/badge/opensuse-white?style=for-the-badge&logo=opensuse)
-![unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
+<!--![fedora](https://img.shields.io/badge/fedora-white?style=for-the-badge&logo=fedora)-->
+<!--![opensuse](https://img.shields.io/badge/opensuse-white?style=for-the-badge&logo=opensuse)-->
+<!--![unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white) -->
 ![Ansys](https://img.shields.io/badge/Ansys-white?style=for-the-badge&logo=ansys)
 ![tinkercad](https://img.shields.io/badge/tinkercad-red?style=for-the-badge&logo=tinkercad)
 [![circuitverse](https://img.shields.io/badge/circuitverse-green?style=for-the-badge&logo=circuitverse&logoColor=white&link=https://circuitverse.org/users/33793)](https://circuitverse.org/users/33793)
@@ -49,8 +36,8 @@ An Electronics & Communication graduate with a passion for information security,
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)-->
+<!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->
 [![python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=yellow&link=https://www.python.org)](https://www.python.org)
 
 ## 🧰 Misc. tools I use:
@@ -66,6 +53,19 @@ An Electronics & Communication graduate with a passion for information security,
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+# 💫 Some other stuff about me:
+  - 🔭 I’m currently upskilling on ![hackthebox](https://img.shields.io/badge/hackthebox-black?style=flat-square&logo=hackthebox&logoColor=neongreen)
+  - 🄯 Open source enthusiast. Thanks to all the open source contributors!
+  - We can talk about endlessly on sci-fi 👽 (I know quite a bit about ⬇️)
+      - Aliens, Predator & AVP universe
+      - Star Wars
+      - HALO
+      - John Carter
+      - Watchdogs
+      - Rick and Morty
+      - Jurrasic Park
+<br>
 
 # 📊 GitHub Stats: 
 <p> 
