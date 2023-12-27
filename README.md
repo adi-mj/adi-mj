@@ -16,10 +16,11 @@ An Electronics & Communication graduate with a passion for information security,
 ## 🛡️ Infosec. knowledge:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 [![burpsuite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=portswigger&link=https://portswigger.net/burp)](https://portswigger.net/burp)
-[![hackthebox](https://img.shields.io/badge/hackthebox-black?style=for-the-badge&logo=hackthebox&logoColor=neongreen&link=https://app.hackthebox.com/)](https://app.hackthebox.com/)
 [![python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=yellow&link=https://www.python.org)](https://www.python.org)
-[![tryhackme](https://img.shields.io/badge/tryhackme-black?style=for-the-badge&logo=tryhackme&logoColor=white&link=https://tryhackme.com)](https://tryhackme.com)
 [![wireshark](https://img.shields.io/badge/wireshark-white?style=for-the-badge&logo=wireshark&logoColor=blue&link=https://www.wireshark.org)](https://www.wireshark.org)
+
+[![hackthebox](https://img.shields.io/badge/hackthebox-black?style=for-the-badge&logo=hackthebox&logoColor=neongreen&link=https://app.hackthebox.com/)](https://app.hackthebox.com/)
+[![tryhackme](https://img.shields.io/badge/tryhackme-black?style=for-the-badge&logo=tryhackme&logoColor=white&link=https://tryhackme.com)](https://tryhackme.com)
 
 ## 🌏 Environments I work with:
 [![archlinux](https://img.shields.io/badge/archlinux-gray?style=for-the-badge&logo=archlinux&link=https://wiki.archlinux.org/title/User:Adi-mj)](https://wiki.archlinux.org/title/User:Adi-mj)
