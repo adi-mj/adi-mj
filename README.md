@@ -18,7 +18,7 @@ An Electronics & Communication graduate with a passion for information security,
 [![burpsuite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=portswigger&link=https://portswigger.net/burp)](https://portswigger.net/burp)
 [![python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=yellow&link=https://www.python.org)](https://www.python.org)
 [![wireshark](https://img.shields.io/badge/wireshark-white?style=for-the-badge&logo=wireshark&logoColor=blue&link=https://www.wireshark.org)](https://www.wireshark.org)
-
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=blue)
 [![hackthebox](https://img.shields.io/badge/hackthebox-black?style=for-the-badge&logo=hackthebox&logoColor=neongreen&link=https://app.hackthebox.com/)](https://app.hackthebox.com/)
 [![tryhackme](https://img.shields.io/badge/tryhackme-black?style=for-the-badge&logo=tryhackme&logoColor=white&link=https://tryhackme.com)](https://tryhackme.com)
 
