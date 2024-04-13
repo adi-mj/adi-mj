@@ -3,7 +3,7 @@
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="https://raw.githubusercontent.com/cszach/cszach/master/img/Fire.gif" />
 
 # ❇️ One line that defines me best:
-An Electronics & Communication graduate with a passion for information security, merging wireless engineering expertise with recon, vulnerability analysis, Algorithm-driven penetration testing, and continuous learning to fortify digital landscapes against evolving threats.
+A Windows malware developer leveraging a robust background in electronics engineering and cybersecurity to craft sophisticated malware & hardware exploits utilizing advanced evasion techniques, rootkit integration, polymorphic code, exploit payloads, API monitoring, and hooking to target and compromise Windows systems with precision and stealth.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityavarman-manjunath)
@@ -59,15 +59,7 @@ An Electronics & Communication graduate with a passion for information security,
 
 # 💫 Some other stuff about me:
   - 🔭 I’m currently upskilling on ![hackthebox](https://img.shields.io/badge/hackthebox-black?style=flat-square&logo=hackthebox&logoColor=neongreen)
-  - 🄯 Open source enthusiast. Thanks to all the open source contributors!
-  - We can talk about endlessly on sci-fi 👽 (I know quite a bit about ⬇️)
-      - Aliens, Predator & AVP universe
-      - Star Wars
-      - HALO
-      - John Carter
-      - Watchdogs
-      - Rick and Morty
-      - Jurrasic Park
+
 <br>
 
 # 📊 GitHub Stats: 
