@@ -18,7 +18,7 @@ An Electronics & Communication graduate with a passion for information security,
 ![Powershell](https://img.shields.io/badge/POWERSHELL-blue?style=flat&logo=powershell&logoColor=white)
 [![Burpsuite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=portswigger&link=https://portswigger.net/burp)](https://portswigger.net/burp)
 [![Python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=yellow&link=https://www.python.org)](https://www.python.org)
-![Visual CPP](https://img.shields.io/badge/Visual%20C++-black?style=flat&logo=visualstudio&logoColor=violet" alt="Visual C++)
+![Visual CPP](https://img.shields.io/badge/Visual%20C++-black?style=flat&logo=visualstudio&logoColor=violet)
 [![Wireshark](https://img.shields.io/badge/wireshark-white?style=for-the-badge&logo=wireshark&logoColor=blue&link=https://www.wireshark.org)](https://www.wireshark.org)
 ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=blue)
 [![Hackthebox](https://img.shields.io/badge/hackthebox-black?style=for-the-badge&logo=hackthebox&logoColor=neongreen&link=https://app.hackthebox.com/)](https://app.hackthebox.com/)
