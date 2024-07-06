@@ -2,8 +2,7 @@
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="https://raw.githubusercontent.com/cszach/cszach/master/img/Fire.gif" />
 
-# ❇️ One line that defines me best:
-A Windows malware developer leveraging a robust background in electronics engineering and cybersecurity to craft sophisticated malware & hardware exploits utilizing advanced evasion techniques, rootkit integration, polymorphic code, exploit payloads, API monitoring, and hooking to target and compromise Windows systems with precision and stealth.
+I'm an emerging red team engineer focusing on offsec tool development, DevSecOps, and APT emulation, with expertise in malware and hardware exploits utilizing advanced evasion techniques, rootkit integration, polymorphic code, exploit payloads, API monitoring, and hooking.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityavarman-manjunath)
@@ -39,9 +38,9 @@ A Windows malware developer leveraging a robust background in electronics engine
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)-->
-<!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->
-[![python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=yellow&link=https://www.python.org)](https://www.python.org)
+![Rust](https://img.shields.io/badge/-RUST-informational?logo=rust&style=for-the-badge&logoColor=000000&color=e01b24&labelColor=ffffff)
+[![Python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=yellow&link=https://www.python.org)](https://www.python.org)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 ## 🧰 Misc. tools I use:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
